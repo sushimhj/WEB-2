@@ -1,0 +1,15 @@
+body{
+    color: red;
+    font-size: 40px;
+    /* background-color: aqua; */
+}
+
+.container{
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #e23535;
+
+}
+.container span{
+    color: #35e2ab;
+}
